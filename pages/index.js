@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
+        <Header title="me88 Online Casino - CrazyBunny.io" />
+        <p className="description: Malaysia Trusted Online Casino - Visit crazybunny.io or me88game.com Now! Explore the best online gambling games including live casino, sports betting, slot games, and more!">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
